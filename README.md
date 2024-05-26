@@ -58,6 +58,7 @@ The chatbot provides information related to academic programs, admissions, campu
 - The chatbot uses a system prompt to guide its responses, ensuring they are relevant and helpful for university-related queries.
 
 ## Project Structure
+``` css
 dundee-chatbot/
 │
 ├── backend/
@@ -72,3 +73,4 @@ dundee-chatbot/
 │   └── ...
 │
 └── README.md
+```
